@@ -2,7 +2,7 @@
 #define CONF_READER_HPP
 
 #include <string>
-#include "../../libs/inih/ini.h"
+#include "ini.h"
 #include <map>
 
 class ConfReader {

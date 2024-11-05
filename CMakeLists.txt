@@ -32,4 +32,5 @@ target_include_directories(${PROJECT_NAME} PRIVATE
     ${HDF5_INCLUDE_DIRS}          # HDF5 include directories
     ${CMAKE_SOURCE_DIR}/include   # Custom include directory for project headers
     ${CMAKE_SOURCE_DIR}/libs/inih # Include directory for inih library
+    ${CMAKE_SOURCE_DIR}/libs/pdi/pdi # Include directory for inih library
 )
