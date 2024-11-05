@@ -1,3 +1,17 @@
+# Ignore build directories
+build/
+cmake-build-*/
+
+# Ignore CMake generated files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+CMakeScripts/
+Testing/
+CTestTestfile.cmake
+cmake_install.cmake
+install_manifest.txt
+
 # Prerequisites
 *.d
 
