@@ -2,6 +2,7 @@
 #include "confReader.hpp"
 #include "outputWriter.hpp"
 #include <iostream>
+#include "pdi.h"
 
 int main(int argc, char* argv[]) {
 
